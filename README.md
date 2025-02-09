@@ -1,3 +1,5 @@
+<img width="709" alt="Screenshot 2025-02-06 at 8 45 39 PM" src="https://github.com/user-attachments/assets/802b3dbf-a172-45dd-b9fd-b9ef37b7fbca" />
+
 # Data Leak Report
 
 ## Incident Summary
@@ -58,7 +60,7 @@ In this case, the manufacturer follows **NIST SP 800-53**, which provides guidel
 - Regularly audit user privileges.  
 
 SP 800-53 categorizes least privilege as AC-6 within access controls.  
-<img width="709" alt="Screenshot 2025-02-06 at 8 45 39 PM" src="https://github.com/user-attachments/assets/802b3dbf-a172-45dd-b9fd-b9ef37b7fbca" />
+
 
 ## Summary
 
